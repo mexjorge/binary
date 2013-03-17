@@ -10,7 +10,8 @@
 /*Función Principal
 
 DENTRO DE ESTA FUNCION SE TIENE QUE CONTEMPLAR TODAS LAS SUBRUTINAS DE CADA UNO DE LOS PROCESOS QUE INTEGRRAN EL  PROYECTO
-es importante de de aplicacion de este proyecto se cree un clon en GIT
+es importante de de aplicacion de este proyecto se cree un clon en GIT y esta es una prueba de datos de como se debe de integrar
+
 
 
 */ 
